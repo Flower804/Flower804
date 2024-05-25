@@ -11,6 +11,8 @@ In the past I've also worked with Shellscript, Rust and PHP even tough I'm not a
 ## Past memorable works
 Worked for Tugaspace in the Cansat2024 competition <br>
 Made the code for the Aglousa team in the botolympics 2020 competition <br>
+Contributed in the creation of [Phasmotool](https://github.com/MayD524/PhasmoTool?tab=readme-ov-file) in 2021 <br>
+  > I didn't have github at the time :')
 
 You can always contact me via my social media for whatever reason <br>
 Or contact me via email in: gabrielmoita34@gmail.com <br>
