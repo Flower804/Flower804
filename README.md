@@ -10,10 +10,11 @@ Right now I'm in college taking a degree in Computer Science, but I've already w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower804&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ## Past memorable works
-Worked for Tugaspace in the Cansat2024 competition <br>
-Contributed in the creation of [Phasmotool](https://github.com/MayD524/PhasmoTool?tab=readme-ov-file) in 2021 <br>
-  > I didn't have github at the time :')
-Made the code for the Aglousa team in the botolympics 2020 competition <br>
+ <li>Worked for Tugaspace in the Cansat2024 competition </li><br>
+ <li>Contributed in the creation of [Phasmotool](https://github.com/MayD524/PhasmoTool?tab=readme-ov-file) in 2021<br>
+    > I didn't have github at the time :') </li><br>
+
+ <li>Made the code for the Aglousa team in the botolympics 2020 competition </li><br>
 
 You can always contact me via my social media for whatever reason <br>
 Or contact me via email in: gabrielmoita34@gmail.com <br>
